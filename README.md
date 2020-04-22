@@ -1,4 +1,4 @@
-# MongoDB cookbook
+# MongoDB cookbook 🐱‍🚀
 
 - This cookbook install mongodb from source.
 
