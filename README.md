@@ -42,7 +42,7 @@ chef --version
 ```
 chef generate repo <name>
 ```
-••• <name> is the custom name given by the user for example in this task called MongoCookbookStarterCode
+•••  The custom name given by the user for example in this task called MongoCookbookStarterCode
 
 - Running Kitchen
 
